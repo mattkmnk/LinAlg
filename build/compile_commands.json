@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/mateu/Desktop/Learning/LinAlg/build",
+  "command": "C:\\PROGRA~1\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/Matrix.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\Matrix.dir\\main.cpp.obj -c C:\\Users\\mateu\\Desktop\\Learning\\LinAlg\\main.cpp",
+  "file": "C:/Users/mateu/Desktop/Learning/LinAlg/main.cpp"
+},
+{
+  "directory": "C:/Users/mateu/Desktop/Learning/LinAlg/build",
+  "command": "C:\\PROGRA~1\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/Matrix.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\Matrix.dir\\LinAlg\\Matrix.cpp.obj -c C:\\Users\\mateu\\Desktop\\Learning\\LinAlg\\LinAlg\\Matrix.cpp",
+  "file": "C:/Users/mateu/Desktop/Learning/LinAlg/LinAlg/Matrix.cpp"
+},
+{
+  "directory": "C:/Users/mateu/Desktop/Learning/LinAlg/build",
+  "command": "C:\\PROGRA~1\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/Matrix.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\Matrix.dir\\LinAlg\\Row.cpp.obj -c C:\\Users\\mateu\\Desktop\\Learning\\LinAlg\\LinAlg\\Row.cpp",
+  "file": "C:/Users/mateu/Desktop/Learning/LinAlg/LinAlg/Row.cpp"
+}
+]

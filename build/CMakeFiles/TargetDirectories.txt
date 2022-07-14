@@ -1,0 +1,3 @@
+C:/Users/mateu/Desktop/Learning/LinAlg/build/CMakeFiles/Matrix.dir
+C:/Users/mateu/Desktop/Learning/LinAlg/build/CMakeFiles/edit_cache.dir
+C:/Users/mateu/Desktop/Learning/LinAlg/build/CMakeFiles/rebuild_cache.dir
