@@ -107,7 +107,7 @@ namespace LinAlg {
          */
         int actDet = 0;
         for(int i = 0; i < inM.mRows; ++i) {
-            subMatrix(inM, inM.getRows() - 1, i).print();
+            //subMatrix(inM, inM.getRows() - 1, i).print();
             actDet += inM[i][0] * (i % 2 == 0 ? 1 : -1) * calcDet(subMatrix(inM, inM.getRows() - 1, i));
         }
         return actDet;
